@@ -1,0 +1,4 @@
+/home/paun/LeetCode/LeetCodeSolutions/SolutionRunner/obj/Debug/net9.0/SolutionRunner.GeneratedMSBuildEditorConfig.editorconfig
+/home/paun/LeetCode/LeetCodeSolutions/SolutionRunner/obj/Debug/net9.0/SolutionRunner.AssemblyInfoInputs.cache
+/home/paun/LeetCode/LeetCodeSolutions/SolutionRunner/obj/Debug/net9.0/SolutionRunner.AssemblyInfo.cs
+/home/paun/LeetCode/LeetCodeSolutions/SolutionRunner/obj/Debug/net9.0/SolutionRunner.csproj.CoreCompileInputs.cache
