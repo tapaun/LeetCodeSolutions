@@ -1,0 +1,62 @@
+# .gitignore for .NET projects (Visual Studio / Rider)
+# Keep solution and source under version control; ignore build artifacts and IDE metadata
+
+# Rider / IntelliJ
+.idea/
+*.iml
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Build Folders
+**/bin/
+**/obj/
+
+# Visual Studio temporary files
+*.vspackage
+*.pdb
+*.cache
+
+# NuGet
+*.nupkg
+# The packages folder can be ignored if you restore using nuget/dotnet
+**/packages/
+
+# Visual Studio Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Test results
+TestResults/
+
+# Rider caches
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+
+# Dotnet publish output
+**/publish/
+
+# Dotnet tool files
+.nuget/
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Misc
+*.vs/
+
+# Keep the solution file(s) tracked (do not ignore *.sln)
+
+# End of .gitignore
